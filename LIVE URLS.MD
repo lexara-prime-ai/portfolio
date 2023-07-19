@@ -11,6 +11,10 @@ source: https://github.com/projectfinalaudio/Projectnest_Beta
 url: https://projectfinalaudio.github.io/squish/
 source: https://github.com/projectfinalaudio/squish
 
+**STACKNEWBIE**
+url: https://stacknewbie-server.onrender.com/
+source: https://github.com/orgs/Stack-Newbie/repositories
+
 **SWYFT MART**
 url: https://swyft.onrender.com/
 source: https://github.com/SwyftMart
