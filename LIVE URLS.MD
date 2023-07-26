@@ -1,5 +1,5 @@
 ## PACKAGES | LIBRARIES
-**ng-message-box **
+**ng-message-box**
 url: https://www.npmjs.com/package/ng-message-box
 source: https://github.com/projectfinalaudio/ng-message-box
 
