@@ -1,3 +1,8 @@
+## PACKAGES | LIBRARIES
+**ng-message-box **
+url: https://www.npmjs.com/package/ng-message-box
+source: https://github.com/projectfinalaudio/ng-message-box
+
 ## WEBSITES 
 **TEACH2GIVE**
 url: https://teach2give.onrender.com
