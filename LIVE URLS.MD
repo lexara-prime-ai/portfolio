@@ -4,6 +4,10 @@ url: https://www.npmjs.com/package/ng-message-box
 source: https://github.com/projectfinalaudio/ng-message-box
 
 ## WEBSITES 
+**URBAN SAFARIS KE**
+url: https://urbansafariske.vercel.app/
+source: https://github.com/projectfinalaudio/TRAVEL_WEBSITE
+
 **TEACH2GIVE**
 url: https://teach2give.onrender.com
 source: https://teach2give.onrender.com/
